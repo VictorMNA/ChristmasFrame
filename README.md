@@ -2,7 +2,7 @@
 
 An arduino controlled matrix of WS2812B leds (aka NeoPixels). Mounted on a frame and displaying chritsmas stuff.
 
-Here you can find the Instructable for building the frame: Under construction...
+Here you can find the Instructable for building the frame: https://www.instructables.com/id/Chritsmas-Frame/
 
 
 - The system used is an Arduino nano
